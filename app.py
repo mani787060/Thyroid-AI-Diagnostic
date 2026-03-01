@@ -1,7 +1,13 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
+import os
 from datetime import datetime
+
+import sklearn
+import pycaret
+print(f"Loading with Sklearn {sklearn.__version__} and PyCaret {pycaret.__version__}")
+
 from pycaret.classification import load_model, predict_model
 
 # --- 1. Page Configuration ---
