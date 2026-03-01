@@ -1,5 +1,12 @@
+import sys
+# Force python to look at the local site-packages first
+sys.path.append("./")
+
 import streamlit as st
 import numpy as np
+if not hasattr(np, "float_"):
+    np.float_ = np.float64
+    
 import pandas as pd
 import os
 from datetime import datetime
