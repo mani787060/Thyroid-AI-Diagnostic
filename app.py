@@ -73,7 +73,7 @@ with c3:
     st.markdown("### :blue[Lab Results II]")
     fti = st.number_input("FTI Score", value=110.0)
     t4u = st.number_input("T4U Level", value=1.0)
-    referral = st.selectbox("Referral Source", ["SVHC", "SVI", "Other"])
+    referral = st.selectbox("Referral Source", ["SVHC", "SVI", "STMW", "SVHD", "OTHER"])
 
 # --- 6. Execution Logic with Clinical Overrides ---
 st.divider()
