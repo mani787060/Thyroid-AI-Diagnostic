@@ -39,11 +39,11 @@ If you wish to run this engine locally on your machine:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/thyroid-ai-diagnostic.git](https://github.com/YOUR_USERNAME/thyroid-ai-diagnostic.git)
 
-2. ** Navigate to the directory:**
+2. **Navigate to the directory:**
    ```bash
    cd thyroid-ai-diagnostic
 
-3. ** Install requirements:**
+3. **Install requirements:**
    ```bash
    pip install -r requirements.txt
 
