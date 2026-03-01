@@ -6,6 +6,9 @@ import streamlit as st
 import numpy as np
 if not hasattr(np, "float_"):
     np.float_ = np.float64
+if not hasattr(np, "strings"):
+    from numpy import char as strings
+    np.strings = strings
     
 import pandas as pd
 import os
