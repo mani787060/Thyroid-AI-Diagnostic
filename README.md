@@ -65,5 +65,6 @@ This tool is a proof-of-concept for clinical decision support and is intended fo
 
 
 
-Developed by Mani Ratan Project Link: https://thyroid-ai-diagnostic-app.streamlit.app/   
+Developed by Mani Ratan 
+Project Link: https://thyroid-ai-diagnostic-app.streamlit.app/   
 
