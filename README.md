@@ -52,6 +52,14 @@ If you wish to run this engine locally on your machine:
    streamlit run app.py
 
 
+## 📺 App Demo
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/886aad09-48d2-4a52-8864-dfba056d2d87" width="100%" controls autoplay muted loop>
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+
 ## 📜 Disclaimer
 This tool is a proof-of-concept for clinical decision support and is intended for educational and research purposes. All diagnostic outcomes should be verified by a certified medical professional.
 
